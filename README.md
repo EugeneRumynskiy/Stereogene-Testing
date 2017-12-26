@@ -10,17 +10,16 @@ Test stereogene in order to account chromatin presence
 
 
 Отсюда:  
-		1)Модели hocomoco  
-			~/mouse_enhancers_specificity/sites/..    
-			-> Получаем разметку мотвами  
-
-		2)Цистром. Это агрегация пиков и сортировка по качеству(highest, high, medium)  
-			~/cistrome_markup/source_data/gtrd  
+1. Модели hocomoco  
+~/mouse_enhancers_specificity/sites/..    
+-> Получаем разметку мотвами  
+2. Цистром. Это агрегация пиков и сортировка по качеству(highest, high, medium)  
+~/cistrome_markup/source_data/gtrd  
 
 
 В итоге:  
-		Получаем разметку цистрома вхождениями мотива. То есть мы подтвердили вхождения мотивов на чипсеках  
-		~/cistrome_markup/results/..  
+Получаем разметку цистрома вхождениями мотива. То есть мы подтвердили вхождения мотивов на чипсеках  
+~/cistrome_markup/results/..  
 	
 
 # ToDo
