@@ -8,13 +8,11 @@ Test stereogene in order to account chromatin presence
 
 Есть куча ридов из баз  ->  Они сведены в GTRD  ->  Проводится коллинг пиков 4мя способами. Получаем ChIP-seq пики * 4  
 Отсюда:  
-	1)Модели hocomoco
-	~/mouse_enhancers_specificity/sites/..
-	-> Получаем разметку мотвами
-
-	2)Цистром. Это агрегация пиков и сортировка по качеству(highest, high, medium)
-	~/cistrome_markup/source_data/gtrd
-	
+	1)Модели hocomoco  
+	~/mouse_enhancers_specificity/sites/..  
+	-> Получаем разметку мотвами  
+	2)Цистром. Это агрегация пиков и сортировка по качеству(highest, high, medium)  
+	~/cistrome_markup/source_data/gtrd  
 В итоге:  
 	Получаем разметку цистрома вхождениями мотива. То есть мы подтвердили вхождения мотивов на чипсеках  
 	~/cistrome_markup/results/..  
