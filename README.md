@@ -9,7 +9,7 @@ Test stereogene in order to account chromatin presence
 Есть куча ридов из баз  ->  Они сведены в GTRD  ->  Проводится коллинг пиков 4мя способами. Получаем ChIP-seq пики * 4  
 
 
-Отсюда:  
+Отсюда:
 1. Модели hocomoco  
 ~/mouse_enhancers_specificity/sites/..    
 -> Получаем разметку мотвами  
