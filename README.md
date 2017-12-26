@@ -18,9 +18,9 @@ B - Агрегация пиков по качеству и сортировка 
 # Статьи
 
 ## StereoGene, 2017
-github: https://github.com/favorov/stereogene 
-publication: https://www.biorxiv.org/content/early/2017/05/25/059584
-docs: http://stereogene.bioinf.fbb.msu.ru/
+github: https://github.com/favorov/stereogene  
+publication: https://www.biorxiv.org/content/early/2017/05/25/059584  
+docs: http://stereogene.bioinf.fbb.msu.ru/  
 
 Highlights
  - Stats: Kernel correlation (KC)
