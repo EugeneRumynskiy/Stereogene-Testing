@@ -68,7 +68,7 @@ Highlights
  - prediction of nucleosome dynamics can be enhanced by itegrating TF binding information
  - there is no good model for nucleosome-TF interactions
 
-##The interaction landscape between transcription factors and the nucleosome 29.12.2017
+## The interaction landscape between transcription factors and the nucleosome 29.12.2017
 name: The interaction landscape between transcription factors and the nucleosome
 publication: https://www.biorxiv.org/content/early/2017/12/29/240598
 
